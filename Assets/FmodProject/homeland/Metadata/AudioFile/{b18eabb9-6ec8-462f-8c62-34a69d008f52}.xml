@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{b18eabb9-6ec8-462f-8c62-34a69d008f52}">
+		<property name="assetPath">
+			<value>hit_metal_metal_7.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1641269841269841</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ffd3682-8684-4412-b0c0-07c2827e3885}</destination>
+		</relationship>
+	</object>
+</objects>

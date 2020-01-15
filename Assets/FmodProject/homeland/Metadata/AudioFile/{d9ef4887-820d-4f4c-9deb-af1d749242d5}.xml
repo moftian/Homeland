@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{d9ef4887-820d-4f4c-9deb-af1d749242d5}">
+		<property name="assetPath">
+			<value>running-in-grass.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1942857142857144</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ffd3682-8684-4412-b0c0-07c2827e3885}</destination>
+		</relationship>
+	</object>
+</objects>

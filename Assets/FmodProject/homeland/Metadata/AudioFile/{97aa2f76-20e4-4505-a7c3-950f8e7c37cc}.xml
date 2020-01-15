@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{97aa2f76-20e4-4505-a7c3-950f8e7c37cc}">
+		<property name="assetPath">
+			<value>man_death14.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.9214512471655329</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ffd3682-8684-4412-b0c0-07c2827e3885}</destination>
+		</relationship>
+	</object>
+</objects>

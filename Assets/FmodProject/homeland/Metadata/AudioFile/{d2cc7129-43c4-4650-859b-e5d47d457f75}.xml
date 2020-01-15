@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{d2cc7129-43c4-4650-859b-e5d47d457f75}">
+		<property name="assetPath">
+			<value>luo001.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.0021315192743767</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ffd3682-8684-4412-b0c0-07c2827e3885}</destination>
+		</relationship>
+	</object>
+</objects>

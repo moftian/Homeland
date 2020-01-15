@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{15213239-8df1-4e09-b7d2-917cf8d74afb}">
+		<property name="assetPath">
+			<value>seagull02.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>74.410362811791387</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3ffd3682-8684-4412-b0c0-07c2827e3885}</destination>
+		</relationship>
+	</object>
+</objects>

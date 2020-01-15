@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{b1fa533b-f5c6-4885-9bc3-3d34aea8b4cc}">
+		<property name="name">
+			<value>quadStrength</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d49a14de-7ec2-4127-bafe-7932f011a317}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{71ae3735-9bc8-4f7b-8b80-df7c0d98267f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{71ae3735-9bc8-4f7b-8b80-df7c0d98267f}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

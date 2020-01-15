@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{0d474a7c-7859-43ea-af50-1697aaf19a43}">
+		<property name="name">
+			<value>isInQuad</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d49a14de-7ec2-4127-bafe-7932f011a317}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5845b68f-27a6-4435-a8dc-e0451a6e0eb5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5845b68f-27a6-4435-a8dc-e0451a6e0eb5}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

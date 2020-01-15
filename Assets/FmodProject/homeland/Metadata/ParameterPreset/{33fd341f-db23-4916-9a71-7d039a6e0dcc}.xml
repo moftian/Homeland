@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{33fd341f-db23-4916-9a71-7d039a6e0dcc}">
+		<property name="name">
+			<value>zoomOut</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d49a14de-7ec2-4127-bafe-7932f011a317}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{be090891-726c-40e8-9c5e-e6e7bc453b00}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{be090891-726c-40e8-9c5e-e6e7bc453b00}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
