@@ -80,11 +80,13 @@ public class FModDemo : MonoBehaviour
     public void setWeatherCondition(float cond)
     {
         FMODUnity.RuntimeManager.StudioSystem.setParameterByName("weatherCondition", Mathf.Clamp(cond, 0.0f, 1.0f));
+
     }
 
     public void setZoomOut(float percentage)
     {
-        FMODUnity.RuntimeManager.StudioSystem.setParameterByName("zoomOut", Mathf.Clamp(percentage, 0.0f, 1.0f));
+        FMODUnity.RuntimeManager.StudioSystem.setParameterByName("zoomOut", percentage);
+        //FMODUnity.RuntimeManager.StudioSystem.setParameterByName("zoomOut", Mathf.Clamp(percentage, 0.0f, 1.0f));
     }
 
     public void startBattleMusic()

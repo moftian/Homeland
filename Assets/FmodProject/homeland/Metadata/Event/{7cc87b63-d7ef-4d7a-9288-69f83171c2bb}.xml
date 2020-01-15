@@ -266,7 +266,13 @@
 	<object class="MixerBusFader" id="{69117d94-eaea-40b7-a96f-d4c1136be391}" />
 	<object class="SpatialiserEffect" id="{151c2998-4c0c-479f-936c-e41c1df67a61}">
 		<property name="maximumDistance">
-			<value>300</value>
+			<value>100</value>
+		</property>
+		<property name="userPanDirection">
+			<value>-142.380844</value>
+		</property>
+		<property name="userPanExtent">
+			<value>351.037628</value>
 		</property>
 	</object>
 	<object class="SingleSound" id="{cefd92be-e74e-466b-8b1b-90bbc42a9198}">
